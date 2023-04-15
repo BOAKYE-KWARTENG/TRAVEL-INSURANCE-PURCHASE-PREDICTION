@@ -1,2 +1,2 @@
 # TRAVEL-INSURANCE-PURCHASE-PREDICTION
-Machine Learning approach for predicting prospective travel insurance client.
+As a data analyst and machine learning enthusiast, I utilized a Machine Learning approach to develop a predictive model for identifying potential clients for travel insurance.
