@@ -1,3 +1,2 @@
 # TRAVEL-INSURANCE-PURCHASE-PREDICTION
-As a data analyst and machine learning enthusiast, I utilized a Machine Learning approach to develop a predictive model for identifying potential clients for travel insurance. Please, open TRAVEL-INSURANCE-PURCHASE-PREDICTION
-.IPYNB to acces the project
+As a data analyst and machine learning enthusiast, I utilized a Machine Learning approach to develop a predictive model for identifying potential clients for travel insurance. Please, open Travel-Insurance-Purchase-Prediction.ipynb.IPYNB to acces the project
